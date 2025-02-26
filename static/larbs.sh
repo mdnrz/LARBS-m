@@ -9,7 +9,7 @@
 dotfilesrepo="https://github.com/lukesmithxyz/voidrice.git"
 progsfile="https://raw.githubusercontent.com/LukeSmithxyz/LARBS/master/static/progs.csv"
 aurhelper="yay"
-repobranch="master"
+repobranch="mehdi"
 export TERM=ansi
 
 rssurls="https://lukesmith.xyz/rss.xml
